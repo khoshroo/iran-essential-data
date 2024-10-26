@@ -1,0 +1,6851 @@
+{
+    "provinces": [
+        {
+            "id": "1",
+            "name": "تهران",
+            "postal_code": "00",
+            "lat": "35.6892",
+            "long": "51.3890",
+            "zoom_level": "8"
+        },
+        {
+            "id": "2",
+            "name": "گیلان",
+            "postal_code": "01",
+            "lat": "37.2809",
+            "long": "49.5924",
+            "zoom_level": "8"
+        },
+        {
+            "id": "3",
+            "name": "مازندران",
+            "postal_code": "02",
+            "lat": "36.5659",
+            "long": "53.0586",
+            "zoom_level": "8"
+        },
+        {
+            "id": "4",
+            "name": "آذربایجان شرقی",
+            "postal_code": "03",
+            "lat": "38.0962",
+            "long": "46.2738",
+            "zoom_level": "8"
+        },
+        {
+            "id": "5",
+            "name": "آذربایجان غربی",
+            "postal_code": "04",
+            "lat": "37.5486",
+            "long": "45.0675",
+            "zoom_level": "8"
+        },
+        {
+            "id": "6",
+            "name": "کرمانشاه",
+            "postal_code": "05",
+            "lat": "34.3277",
+            "long": "47.0778",
+            "zoom_level": "8"
+        },
+        {
+            "id": "7",
+            "name": "خوزستان",
+            "postal_code": "06",
+            "lat": "31.3183",
+            "long": "48.6706",
+            "zoom_level": "8"
+        },
+        {
+            "id": "8",
+            "name": "فارس",
+            "postal_code": "07",
+            "lat": "29.5917",
+            "long": "52.5836",
+            "zoom_level": "8"
+        },
+        {
+            "id": "9",
+            "name": "کرمان",
+            "postal_code": "08",
+            "lat": "30.2839",
+            "long": "57.0834",
+            "zoom_level": "8"
+        },
+        {
+            "id": "10",
+            "name": "خراسان رضوی",
+            "postal_code": "09",
+            "lat": "36.2605",
+            "long": "59.6168",
+            "zoom_level": "8"
+        },
+        {
+            "id": "11",
+            "name": "اصفهان",
+            "postal_code": "10",
+            "lat": "32.6539",
+            "long": "51.6660",
+            "zoom_level": "8"
+        },
+        {
+            "id": "12",
+            "name": "سیستان و بلوچستان",
+            "postal_code": "11",
+            "lat": "27.5299",
+            "long": "60.5820",
+            "zoom_level": "8"
+        },
+        {
+            "id": "13",
+            "name": "کردستان",
+            "postal_code": "12",
+            "lat": "35.3219",
+            "long": "46.9862",
+            "zoom_level": "8"
+        },
+        {
+            "id": "14",
+            "name": "همدان",
+            "postal_code": "13",
+            "lat": "34.7983",
+            "long": "48.5148",
+            "zoom_level": "8"
+        },
+        {
+            "id": "15",
+            "name": "چهارمحال و بختیاری",
+            "postal_code": "14",
+            "lat": "32.3256",
+            "long": "50.8644",
+            "zoom_level": "8"
+        },
+        {
+            "id": "16",
+            "name": "لرستان",
+            "postal_code": "15",
+            "lat": "33.5818",
+            "long": "48.3988",
+            "zoom_level": "8"
+        },
+        {
+            "id": "17",
+            "name": "ایلام",
+            "postal_code": "16",
+            "lat": "33.2956",
+            "long": "46.6703",
+            "zoom_level": "8"
+        },
+        {
+            "id": "18",
+            "name": "کهگیلویه و بویراحمد",
+            "postal_code": "17",
+            "lat": "30.6562",
+            "long": "51.5960",
+            "zoom_level": "8"
+        },
+        {
+            "id": "19",
+            "name": "بوشهر",
+            "postal_code": "18",
+            "lat": "28.9234",
+            "long": "50.8203",
+            "zoom_level": "8"
+        },
+        {
+            "id": "20",
+            "name": "زنجان",
+            "postal_code": "19",
+            "lat": "36.5018",
+            "long": "48.3988",
+            "zoom_level": "8"
+        },
+        {
+            "id": "21",
+            "name": "سمنان",
+            "postal_code": "20",
+            "lat": "35.2256",
+            "long": "54.4337",
+            "zoom_level": "8"
+        },
+        {
+            "id": "22",
+            "name": "یزد",
+            "postal_code": "21",
+            "lat": "31.8974",
+            "long": "54.3569",
+            "zoom_level": "8"
+        },
+        {
+            "id": "23",
+            "name": "هرمزگان",
+            "postal_code": "22",
+            "lat": "27.1832",
+            "long": "56.2666",
+            "zoom_level": "8"
+        },
+        {
+            "id": "24",
+            "name": "اردبیل",
+            "postal_code": "23",
+            "lat": "38.2498",
+            "long": "48.2933",
+            "zoom_level": "8"
+        },
+        {
+            "id": "25",
+            "name": "قم",
+            "postal_code": "24",
+            "lat": "34.6416",
+            "long": "50.8746",
+            "zoom_level": "8"
+        },
+        {
+            "id": "26",
+            "name": "قزوین",
+            "postal_code": "25",
+            "lat": "36.0881",
+            "long": "49.8547",
+            "zoom_level": "8"
+        },
+        {
+            "id": "27",
+            "name": "گلستان",
+            "postal_code": "26",
+            "lat": "37.2898",
+            "long": "55.1376",
+            "zoom_level": "8"
+        },
+        {
+            "id": "28",
+            "name": "خراسان شمالی",
+            "postal_code": "27",
+            "lat": "37.4761",
+            "long": "57.3317",
+            "zoom_level": "8"
+        },
+        {
+            "id": "29",
+            "name": "خراسان جنوبی",
+            "postal_code": "28",
+            "lat": "32.8649",
+            "long": "59.2162",
+            "zoom_level": "8"
+        },
+        {
+            "id": "30",
+            "name": "البرز",
+            "postal_code": "29",
+            "lat": "35.9960",
+            "long": "50.9289",
+            "zoom_level": "8"
+        },
+        {
+            "id": "31",
+            "name": "مرکزی",
+            "postal_code": "30",
+            "lat": "34.0954",
+            "long": "49.7013",
+            "zoom_level": "8"
+        }
+    ],
+    "cities": [
+        {
+            "name": "تهران",
+            "postal_code": "1",
+            "province_id": "1",
+            "lat": "35.6892",
+            "long": "51.3890",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "اسلامشهر",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.5445",
+            "long": "51.2352",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بهارستان",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.5546",
+            "long": "51.1667",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پاکدشت",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.4710",
+            "long": "51.6861",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پردیس",
+            "postal_code": "16",
+            "province_id": "1",
+            "lat": "35.7422",
+            "long": "51.7800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پیشوا",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.3080",
+            "long": "51.7267",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دماوند",
+            "postal_code": "39",
+            "province_id": "1",
+            "lat": "35.7167",
+            "long": "52.0667",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رباط‌کریم",
+            "postal_code": "37",
+            "province_id": "1",
+            "lat": "35.4847",
+            "long": "51.0828",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ری",
+            "postal_code": "18",
+            "province_id": "1",
+            "lat": "35.5940",
+            "long": "51.4399",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "شمیرانات",
+            "postal_code": "19",
+            "province_id": "1",
+            "lat": "35.9548",
+            "long": "51.5950",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شهریار",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.6597",
+            "long": "51.0593",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "فیروزکوه",
+            "postal_code": "39",
+            "province_id": "1",
+            "lat": "35.7581",
+            "long": "52.7722",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قدس",
+            "postal_code": "37",
+            "province_id": "1",
+            "lat": "35.7203",
+            "long": "51.1069",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قرچک",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.4391",
+            "long": "51.5691",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ملارد",
+            "postal_code": "31",
+            "province_id": "1",
+            "lat": "35.6658",
+            "long": "50.9768",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ورامین",
+            "postal_code": "33",
+            "province_id": "1",
+            "lat": "35.3242",
+            "long": "51.6457",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رشت",
+            "postal_code": "41",
+            "province_id": "2",
+            "lat": "37.2809",
+            "long": "49.5924",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "آستارا",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "38.4292",
+            "long": "48.8720",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آستانه اشرفیه",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.2596",
+            "long": "49.9432",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "املش",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.0916",
+            "long": "50.1869",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بندر انزلی",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.4724",
+            "long": "49.4589",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تالش",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.8021",
+            "long": "48.9067",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رضوانشهر",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.5507",
+            "long": "49.1410",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رودبار",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "36.8242",
+            "long": "49.4232",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رودسر",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.1378",
+            "long": "50.2836",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سیاهکل",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.1527",
+            "long": "49.8712",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شفت",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.1675",
+            "long": "49.4025",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صومعه‌سرا",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3116",
+            "long": "49.3218",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فومن",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.2263",
+            "long": "49.3127",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لاهیجان",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.2075",
+            "long": "50.0033",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لنگرود",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.1977",
+            "long": "50.1527",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ماسال",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3816",
+            "long": "49.1331",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خمام",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3933",
+            "long": "49.6585",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوچصفهان",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.2761",
+            "long": "49.7661",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کیاشهر",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.4196",
+            "long": "49.9300",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لشت نشا",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3622",
+            "long": "49.8587",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "منجیل",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "36.7449",
+            "long": "49.4194",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هشتپر",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.8021",
+            "long": "48.9067",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چابکسر",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "36.9761",
+            "long": "50.5766",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چاف و چمخاله",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.2233",
+            "long": "50.2177",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لوشان",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "36.6326",
+            "long": "49.5159",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لولمان",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3333",
+            "long": "49.8333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خشکبیجار",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.3750",
+            "long": "49.7583",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رحیم آباد",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.0333",
+            "long": "50.3333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شلمان",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.1500",
+            "long": "50.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلاچای",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "37.0778",
+            "long": "50.3983",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اسالم",
+            "postal_code": "43",
+            "province_id": "2",
+            "lat": "37.7333",
+            "long": "48.9500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دیلمان",
+            "postal_code": "44",
+            "province_id": "2",
+            "lat": "36.8833",
+            "long": "49.9000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ساری",
+            "postal_code": "48",
+            "province_id": "3",
+            "lat": "36.5659",
+            "long": "53.0586",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "آمل",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.4698",
+            "long": "52.3507",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بابل",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.5515",
+            "long": "52.6789",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بهشهر",
+            "postal_code": "48",
+            "province_id": "3",
+            "lat": "36.6923",
+            "long": "53.5507",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تنکابن",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.8163",
+            "long": "50.8738",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جویبار",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.6414",
+            "long": "52.9125",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چالوس",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.6550",
+            "long": "51.4205",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رامسر",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.9226",
+            "long": "50.6589",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قائم‌شهر",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.4635",
+            "long": "52.8627",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "محمودآباد",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.6339",
+            "long": "52.2623",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نکا",
+            "postal_code": "48",
+            "province_id": "3",
+            "lat": "36.6506",
+            "long": "53.2995",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نور",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.5735",
+            "long": "52.0128",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نوشهر",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.6497",
+            "long": "51.4961",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بابلسر",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.7025",
+            "long": "52.6577",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فریدونکنار",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.6868",
+            "long": "52.5225",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "امیرکلا",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.5986",
+            "long": "52.6614",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نشتارود",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.7500",
+            "long": "51.0333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کتالم و سادات‌شهر",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.8333",
+            "long": "50.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پل سفید",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.1167",
+            "long": "53.0583",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زیرآب",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.1792",
+            "long": "52.9722",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلارآباد",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.7000",
+            "long": "51.2667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کیاکلا",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.5833",
+            "long": "52.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گتاب",
+            "postal_code": "47",
+            "province_id": "3",
+            "lat": "36.4333",
+            "long": "52.7833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گلوگاه",
+            "postal_code": "48",
+            "province_id": "3",
+            "lat": "36.7273",
+            "long": "53.8089",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مرزن‌آباد",
+            "postal_code": "46",
+            "province_id": "3",
+            "lat": "36.4500",
+            "long": "51.3000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تبریز",
+            "postal_code": "51",
+            "province_id": "4",
+            "lat": "38.0962",
+            "long": "46.2738",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "آذرشهر",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.7585",
+            "long": "45.9783",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اسکو",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.9161",
+            "long": "46.1234",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اهر",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.4724",
+            "long": "47.0688",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بستان‌آباد",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "37.8501",
+            "long": "46.8333",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بناب",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.3402",
+            "long": "46.0562",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جلفا",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.9403",
+            "long": "45.6306",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چاراویماق",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.1297",
+            "long": "47.0245",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سراب",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "37.9403",
+            "long": "47.5366",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شبستر",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "38.1803",
+            "long": "45.7027",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "عجب‌شیر",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.4776",
+            "long": "45.8944",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلیبر",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.8696",
+            "long": "47.0357",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مراغه",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.3890",
+            "long": "46.2397",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "مرند",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.4329",
+            "long": "45.7749",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ملکان",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.1458",
+            "long": "46.1010",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "میانه",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.4215",
+            "long": "47.7154",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ورزقان",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.5095",
+            "long": "46.6549",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هریس",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "38.2477",
+            "long": "47.1167",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "هشترود",
+            "postal_code": "55",
+            "province_id": "4",
+            "lat": "37.4778",
+            "long": "47.0506",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خداآفرین",
+            "postal_code": "54",
+            "province_id": "4",
+            "lat": "39.3816",
+            "long": "47.0200",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صوفیان",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "38.2767",
+            "long": "45.9814",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ایلخچی",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.9393",
+            "long": "45.9814",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خسروشهر",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.9508",
+            "long": "46.0503",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "باسمنج",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "38.0458",
+            "long": "46.4872",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سهند",
+            "postal_code": "53",
+            "province_id": "4",
+            "lat": "37.9413",
+            "long": "46.1222",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ارومیه",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.5486",
+            "long": "45.0675",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "اشنویه",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.0397",
+            "long": "45.0983",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بوکان",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.5210",
+            "long": "46.2089",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "پیرانشهر",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "36.6940",
+            "long": "45.1316",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تکاب",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.4009",
+            "long": "47.1133",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چالدران",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "39.0653",
+            "long": "44.3844",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خوی",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "38.5504",
+            "long": "44.9520",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "سردشت",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.1552",
+            "long": "45.4800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سلماس",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "38.1973",
+            "long": "44.7653",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شاهین‌دژ",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.6799",
+            "long": "46.5669",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ماکو",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "39.2953",
+            "long": "44.5162",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهاباد",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.7636",
+            "long": "45.7222",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "میاندوآب",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.9694",
+            "long": "46.1027",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "نقده",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "36.9553",
+            "long": "45.3880",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شوط",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "39.2187",
+            "long": "44.7708",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پلدشت",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "39.3486",
+            "long": "45.0717",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چایپاره",
+            "postal_code": "58",
+            "province_id": "5",
+            "lat": "38.8955",
+            "long": "45.0224",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "باروق",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.9527",
+            "long": "46.3236",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گردکشانه",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.5486",
+            "long": "45.0675",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "محمودآباد",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.3486",
+            "long": "45.3236",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ربط",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.2064",
+            "long": "45.5556",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سیلوانه",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.4283",
+            "long": "44.8542",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سیمینه",
+            "postal_code": "59",
+            "province_id": "5",
+            "lat": "36.7324",
+            "long": "46.1549",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرو",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.7431",
+            "long": "44.6504",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قوشچی",
+            "postal_code": "57",
+            "province_id": "5",
+            "lat": "37.9889",
+            "long": "45.0436",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کرمانشاه",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.3277",
+            "long": "47.0778",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "اسلام‌آباد غرب",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.1117",
+            "long": "46.5284",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پاوه",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "35.0434",
+            "long": "46.3565",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ثلاث باباجانی",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.7359",
+            "long": "46.1493",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جوانرود",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.8067",
+            "long": "46.4874",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دالاهو",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.2844",
+            "long": "46.2424",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "روانسر",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.7124",
+            "long": "46.6517",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سرپل ذهاب",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.4610",
+            "long": "45.8625",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سنقر",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.7834",
+            "long": "47.6002",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "صحنه",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.4815",
+            "long": "47.6906",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قصر شیرین",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.5159",
+            "long": "45.5777",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کنگاور",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.5042",
+            "long": "47.9654",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گیلانغرب",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.1426",
+            "long": "45.9226",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "هرسین",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.2719",
+            "long": "47.6046",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نوسود",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "35.1581",
+            "long": "46.2003",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شاهو",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "35.0217",
+            "long": "46.3687",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تازه‌آباد",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.7395",
+            "long": "46.1527",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوزران",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.4840",
+            "long": "46.9162",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیستون",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.3981",
+            "long": "47.4366",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سومار",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "33.8524",
+            "long": "45.6331",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نودشه",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "35.1763",
+            "long": "46.2537",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گهواره",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.3445",
+            "long": "46.4221",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رباط",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.2904",
+            "long": "46.9949",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرمست",
+            "postal_code": "67",
+            "province_id": "6",
+            "lat": "34.4955",
+            "long": "47.9397",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اهواز",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.3183",
+            "long": "48.6706",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "آبادان",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.3473",
+            "long": "48.3040",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "امیدیه",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.7574",
+            "long": "49.7081",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اندیمشک",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.4594",
+            "long": "48.3591",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "اندیکا",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.1943",
+            "long": "49.4477",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ایذه",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "31.8342",
+            "long": "49.8674",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "باغ‌ملک",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "31.5242",
+            "long": "49.8866",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بندر ماهشهر",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.5589",
+            "long": "49.1981",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بهبهان",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.5959",
+            "long": "50.2417",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خرمشهر",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "30.4256",
+            "long": "48.1891",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دزفول",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.3814",
+            "long": "48.4024",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "دشت آزادگان",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "31.5556",
+            "long": "48.1808",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رامشیر",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.8956",
+            "long": "49.4092",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رامهرمز",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "31.2800",
+            "long": "49.6036",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شادگان",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.6498",
+            "long": "48.6647",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شوش",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.1958",
+            "long": "48.2439",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شوشتر",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.0574",
+            "long": "48.8567",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کارون",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.2500",
+            "long": "48.6800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گتوند",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.2514",
+            "long": "48.8156",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لالی",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.3286",
+            "long": "49.0933",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مسجدسلیمان",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "31.9364",
+            "long": "49.3039",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "هفتکل",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "31.4481",
+            "long": "49.5342",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هندیجان",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.2364",
+            "long": "49.7119",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هویزه",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "31.4633",
+            "long": "48.0706",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ملاثانی",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.3561",
+            "long": "48.8828",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چمران",
+            "postal_code": "63",
+            "province_id": "7",
+            "lat": "30.7108",
+            "long": "49.1647",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "حمیدیه",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.4814",
+            "long": "48.4339",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شیبان",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.4000",
+            "long": "48.8333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ویس",
+            "postal_code": "61",
+            "province_id": "7",
+            "lat": "31.4833",
+            "long": "48.8667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صفی‌آباد",
+            "postal_code": "64",
+            "province_id": "7",
+            "lat": "32.2500",
+            "long": "48.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شیراز",
+            "postal_code": "71",
+            "province_id": "8",
+            "lat": "29.5917",
+            "long": "52.5836",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "آباده",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "31.1608",
+            "long": "52.6506",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اقلید",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.8988",
+            "long": "52.6866",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ارسنجان",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.9125",
+            "long": "53.3088",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "استهبان",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "29.1267",
+            "long": "54.0422",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بوانات",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.4847",
+            "long": "53.5933",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پاسارگاد",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.2033",
+            "long": "53.1789",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جهرم",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.5000",
+            "long": "53.5608",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خرامه",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.4950",
+            "long": "53.3203",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خرم‌بید",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "32.0236",
+            "long": "51.6414",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خنج",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "27.8914",
+            "long": "53.4344",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "داراب",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.7519",
+            "long": "54.5444",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رستم",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.4000",
+            "long": "51.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرین‌دشت",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.3547",
+            "long": "54.4178",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سپیدان",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.2425",
+            "long": "51.9922",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سروستان",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.2767",
+            "long": "53.2203",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فراشبند",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.8714",
+            "long": "52.0914",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فسا",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.9383",
+            "long": "53.6451",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فیروزآباد",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.8439",
+            "long": "52.5708",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قیروکارزین",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "28.4300",
+            "long": "53.0950",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کازرون",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.6192",
+            "long": "51.6547",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "کوار",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.2000",
+            "long": "52.6869",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گراش",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "27.6747",
+            "long": "54.1375",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لارستان",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "27.6810",
+            "long": "54.3419",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "لامرد",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "27.3422",
+            "long": "53.1803",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مرودشت",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.8742",
+            "long": "52.8025",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "ممسنی",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.8333",
+            "long": "51.5333",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهر",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "27.5556",
+            "long": "52.8847",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نی‌ریز",
+            "postal_code": "74",
+            "province_id": "8",
+            "lat": "29.1989",
+            "long": "54.3278",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "صدرا",
+            "postal_code": "71",
+            "province_id": "8",
+            "lat": "29.8067",
+            "long": "52.5101",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "اردکان",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "30.2500",
+            "long": "51.9917",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیضا",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.9833",
+            "long": "52.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرقان",
+            "postal_code": "73",
+            "province_id": "8",
+            "lat": "29.7750",
+            "long": "52.7233",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کرمان",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "30.2839",
+            "long": "57.0834",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "بافت",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "29.2339",
+            "long": "56.6025",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بردسیر",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "29.9275",
+            "long": "56.5722",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بم",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "29.1056",
+            "long": "58.3570",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "جیرفت",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "28.6751",
+            "long": "57.7371",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "رابر",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "29.2906",
+            "long": "56.9133",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "راور",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "31.2656",
+            "long": "56.8055",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رفسنجان",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.4067",
+            "long": "55.9939",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "رودبار جنوب",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "27.5247",
+            "long": "57.9867",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ریگان",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "28.6506",
+            "long": "59.0178",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرند",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.8133",
+            "long": "56.5638",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سیرجان",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "29.4519",
+            "long": "55.6716",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "شهربابک",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.1164",
+            "long": "55.1186",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "عنبرآباد",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "28.4783",
+            "long": "57.8414",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قلعه گنج",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "27.5236",
+            "long": "57.8814",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کهنوج",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "27.9500",
+            "long": "57.7000",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کوهبنان",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "31.4131",
+            "long": "56.2825",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "منوجان",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "27.4475",
+            "long": "57.5050",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نرماشیر",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "29.0000",
+            "long": "58.7000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فهرج",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "28.9443",
+            "long": "58.8872",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "انار",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.8739",
+            "long": "55.2753",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ماهان",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "30.0547",
+            "long": "57.2881",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بروات",
+            "postal_code": "76",
+            "province_id": "9",
+            "lat": "29.0958",
+            "long": "58.4061",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جوزم",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.5000",
+            "long": "55.0667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خانوک",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.7214",
+            "long": "56.7463",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درب بهشت",
+            "postal_code": "78",
+            "province_id": "9",
+            "lat": "28.4500",
+            "long": "57.8667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "یزدان شهر",
+            "postal_code": "77",
+            "province_id": "9",
+            "lat": "30.8667",
+            "long": "56.3667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مشهد",
+            "postal_code": "91",
+            "province_id": "10",
+            "lat": "36.2605",
+            "long": "59.6168",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "نیشابور",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.2140",
+            "long": "58.7958",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "سبزوار",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "36.2152",
+            "long": "57.6678",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "تربت حیدریه",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "35.2739",
+            "long": "59.2194",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کاشمر",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "35.2383",
+            "long": "58.4656",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قوچان",
+            "postal_code": "94",
+            "province_id": "10",
+            "lat": "37.1060",
+            "long": "58.5095",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تربت جام",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "35.2439",
+            "long": "60.6225",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تایباد",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "34.7400",
+            "long": "60.7756",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چناران",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.6447",
+            "long": "59.1211",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سرخس",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.5450",
+            "long": "61.1577",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گناباد",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "34.3528",
+            "long": "58.6836",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فریمان",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "35.7070",
+            "long": "59.8500",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "درگز",
+            "postal_code": "94",
+            "province_id": "10",
+            "lat": "37.4444",
+            "long": "59.1080",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خواف",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "34.5719",
+            "long": "60.1408",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بردسکن",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "35.2606",
+            "long": "57.9697",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نقاب",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "36.7094",
+            "long": "57.4067",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چکنه",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.8167",
+            "long": "58.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جغتای",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "36.6394",
+            "long": "57.0770",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خلیل‌آباد",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "35.2556",
+            "long": "58.2867",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "باخرز",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "34.9833",
+            "long": "60.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رشتخوار",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "34.9744",
+            "long": "59.6236",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "داورزن",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "36.3486",
+            "long": "56.8828",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سلطان‌آباد",
+            "postal_code": "96",
+            "province_id": "10",
+            "lat": "36.4000",
+            "long": "57.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فیروزه",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.2833",
+            "long": "58.5833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قلندرآباد",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "35.2833",
+            "long": "59.0333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کندر",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "36.6833",
+            "long": "59.3667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نصرآباد",
+            "postal_code": "91",
+            "province_id": "10",
+            "lat": "35.4167",
+            "long": "59.6000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ملک‌آباد",
+            "postal_code": "93",
+            "province_id": "10",
+            "lat": "35.9914",
+            "long": "59.5994",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بار",
+            "postal_code": "95",
+            "province_id": "10",
+            "lat": "35.2667",
+            "long": "58.7167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دولت‌آباد",
+            "postal_code": "94",
+            "province_id": "10",
+            "lat": "37.4736",
+            "long": "59.1028",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اصفهان",
+            "postal_code": "81",
+            "province_id": "11",
+            "lat": "32.6539",
+            "long": "51.6660",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "کاشان",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "33.9850",
+            "long": "51.4100",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خمینی‌شهر",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.7000",
+            "long": "51.5211",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "نجف‌آباد",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "32.6324",
+            "long": "51.3650",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "شاهین‌شهر",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "32.8733",
+            "long": "51.5503",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "شهرضا",
+            "postal_code": "86",
+            "province_id": "11",
+            "lat": "31.9961",
+            "long": "51.8500",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فلاورجان",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.5553",
+            "long": "51.5097",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گلپایگان",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "33.4539",
+            "long": "50.2883",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لنجان",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.4750",
+            "long": "51.3050",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مبارکه",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.3461",
+            "long": "51.5044",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اردستان",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "33.3761",
+            "long": "52.3694",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "برخوار",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "32.8333",
+            "long": "51.6167",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تیران و کرون",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "32.7025",
+            "long": "51.1522",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چادگان",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "32.7683",
+            "long": "50.6286",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خور و بیابانک",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "33.7747",
+            "long": "55.0881",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دهاقان",
+            "postal_code": "86",
+            "province_id": "11",
+            "lat": "31.9403",
+            "long": "51.6478",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سمیرم",
+            "postal_code": "86",
+            "province_id": "11",
+            "lat": "31.4183",
+            "long": "51.5669",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فریدن",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "33.0214",
+            "long": "50.3067",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فریدون‌شهر",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "32.9411",
+            "long": "50.1211",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نائین",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "32.8600",
+            "long": "53.0881",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نطنز",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "33.5133",
+            "long": "51.9164",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آران و بیدگل",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "34.0578",
+            "long": "51.4844",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خوانسار",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "33.2203",
+            "long": "50.3147",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بهارستان",
+            "postal_code": "81",
+            "province_id": "11",
+            "lat": "32.4867",
+            "long": "51.7767",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فولادشهر",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.4922",
+            "long": "51.4089",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گلشهر",
+            "postal_code": "87",
+            "province_id": "11",
+            "lat": "33.4833",
+            "long": "50.2833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گلدشت",
+            "postal_code": "85",
+            "province_id": "11",
+            "lat": "32.6333",
+            "long": "51.4333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرین‌شهر",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.3878",
+            "long": "51.3778",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهاباد",
+            "postal_code": "83",
+            "province_id": "11",
+            "lat": "33.5167",
+            "long": "51.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درچه",
+            "postal_code": "84",
+            "province_id": "11",
+            "lat": "32.6167",
+            "long": "51.5500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زاهدان",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "29.4963",
+            "long": "60.8629",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "ایرانشهر",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.2025",
+            "long": "60.6848",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "چابهار",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "25.2919",
+            "long": "60.6431",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خاش",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "28.2167",
+            "long": "61.2167",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "زابل",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "31.0289",
+            "long": "61.5011",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "سراوان",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.3708",
+            "long": "62.3344",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نیک‌شهر",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.2322",
+            "long": "60.2147",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کنارک",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "25.3597",
+            "long": "60.3994",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "زهک",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "30.8936",
+            "long": "61.6803",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرباز",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.6326",
+            "long": "61.2564",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "راسک",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.2317",
+            "long": "61.4024",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "میرجاوه",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "29.0167",
+            "long": "61.4500",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نصرت‌آباد",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "29.8514",
+            "long": "59.9617",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بمپور",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.1926",
+            "long": "60.4576",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بنت",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.3042",
+            "long": "59.5146",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بزمان",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.8525",
+            "long": "60.1731",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پیشین",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.0778",
+            "long": "61.7444",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نگور",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "25.3875",
+            "long": "61.1317",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "محمدان",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "29.4963",
+            "long": "60.8629",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دوست‌محمد",
+            "postal_code": "98",
+            "province_id": "12",
+            "lat": "31.0289",
+            "long": "61.5011",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گلمورتی",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.4833",
+            "long": "62.0667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نوک‌آباد",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "28.5406",
+            "long": "60.7897",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قصرقند",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.2044",
+            "long": "60.7425",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جالق",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "27.6042",
+            "long": "62.7008",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فنوج",
+            "postal_code": "99",
+            "province_id": "12",
+            "lat": "26.5758",
+            "long": "59.6447",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سنندج",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.3219",
+            "long": "46.9862",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "سقز",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "36.2462",
+            "long": "46.2705",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بانه",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.9975",
+            "long": "45.8850",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قروه",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.1678",
+            "long": "47.8038",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مریوان",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.5272",
+            "long": "46.1766",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بیجار",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.8746",
+            "long": "47.6053",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کامیاران",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "34.7957",
+            "long": "46.9356",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دهگلان",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.2800",
+            "long": "47.4197",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دیواندره",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.9156",
+            "long": "47.0239",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سریش‌آباد",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.2500",
+            "long": "47.7833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "یاسوکند",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.9889",
+            "long": "47.7278",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "موچش",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.0667",
+            "long": "47.1500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دلبران",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.8667",
+            "long": "47.6833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرینه",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "36.0647",
+            "long": "46.9164",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بابارشانی",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.6667",
+            "long": "47.7833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چناره",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.6333",
+            "long": "46.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کانی‌دینار",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.4550",
+            "long": "46.2244",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شویشه",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.3528",
+            "long": "46.6750",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "برده‌رشه",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.9167",
+            "long": "45.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "توپ‌آغاج",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.8833",
+            "long": "47.4333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اورامان تخت",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.2403",
+            "long": "46.3997",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سروآباد",
+            "postal_code": "66",
+            "province_id": "13",
+            "lat": "35.3125",
+            "long": "46.3672",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "همدان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.7983",
+            "long": "48.5148",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "ملایر",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.2969",
+            "long": "48.8235",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "نهاوند",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.1886",
+            "long": "48.3768",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تویسرکان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.5482",
+            "long": "48.4474",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اسدآباد",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.7825",
+            "long": "48.1190",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بهار",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.9083",
+            "long": "48.4414",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کبودرآهنگ",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.2083",
+            "long": "48.7248",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رزن",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.3869",
+            "long": "49.0339",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فامنین",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.1167",
+            "long": "48.9726",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لالجین",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.9722",
+            "long": "48.4769",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مریانج",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.8444",
+            "long": "48.4575",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جورقان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.8794",
+            "long": "48.5506",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قهاوند",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.8569",
+            "long": "49.0017",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صالح‌آباد",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.9214",
+            "long": "48.3464",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فیروزان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.3403",
+            "long": "48.1147",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گیان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.1833",
+            "long": "48.2333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ازندریان",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.5231",
+            "long": "48.6919",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "برزول",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.1667",
+            "long": "48.4333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دمق",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.5486",
+            "long": "48.8828",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زنگنه",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.1667",
+            "long": "48.6000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سامن",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "34.2122",
+            "long": "48.7075",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شیرین‌سو",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.4947",
+            "long": "48.4669",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قروه درجزین",
+            "postal_code": "65",
+            "province_id": "14",
+            "lat": "35.3108",
+            "long": "49.0978",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شهرکرد",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.3256",
+            "long": "50.8644",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بروجن",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.9650",
+            "long": "51.2871",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فارسان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.2572",
+            "long": "50.5708",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "لردگان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.5100",
+            "long": "50.8297",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اردل",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.9997",
+            "long": "50.6616",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کیار",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.1753",
+            "long": "50.8853",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوهرنگ",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.5558",
+            "long": "50.1264",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سامان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.4520",
+            "long": "50.9117",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بن",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.5422",
+            "long": "50.7458",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فرخ شهر",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.2719",
+            "long": "50.9800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جونقان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.1511",
+            "long": "50.6851",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "باباحیدر",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.3286",
+            "long": "50.4631",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پردنجان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.0308",
+            "long": "50.6583",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بلداجی",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.9369",
+            "long": "51.0531",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آلونی",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.5500",
+            "long": "50.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گندمان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.8628",
+            "long": "51.1617",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نافچ",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.4242",
+            "long": "50.7831",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هفشجان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.2500",
+            "long": "50.8000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شلمزار",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.0464",
+            "long": "50.8186",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سودجان",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.5208",
+            "long": "50.8531",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صمصامی",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.1833",
+            "long": "50.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرخون",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.7667",
+            "long": "51.0667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کاج",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.0000",
+            "long": "50.6333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چلیچه",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "32.3000",
+            "long": "50.6333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مال‌خلیفه",
+            "postal_code": "88",
+            "province_id": "15",
+            "lat": "31.2833",
+            "long": "51.2667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خرم‌آباد",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4879",
+            "long": "48.3558",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "بروجرد",
+            "postal_code": "69",
+            "province_id": "16",
+            "lat": "33.8940",
+            "long": "48.7672",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "دورود",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4953",
+            "long": "49.0537",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "الیگودرز",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4006",
+            "long": "49.6949",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کوهدشت",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.5350",
+            "long": "47.6100",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ازنا",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4563",
+            "long": "49.4561",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پلدختر",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.1533",
+            "long": "47.7136",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نورآباد",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "34.0734",
+            "long": "47.9725",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "الشتر",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.8640",
+            "long": "48.2644",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "معمولان",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.3797",
+            "long": "47.9600",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کونانی",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4033",
+            "long": "47.3214",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زاغه",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.5006",
+            "long": "48.7056",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چغلوندی",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.6647",
+            "long": "48.5508",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سپیددشت",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.2197",
+            "long": "48.8856",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سراب‌دوره",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.5667",
+            "long": "48.0333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فیروزآباد",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.8969",
+            "long": "48.1108",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چقابل",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.2500",
+            "long": "47.7167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ویسیان",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.4833",
+            "long": "48.0333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شول‌آباد",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.1833",
+            "long": "49.1833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گراب",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.2833",
+            "long": "47.8000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چالانچولان",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.6667",
+            "long": "48.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیران‌شهر",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.6333",
+            "long": "48.5667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درب‌گنبد",
+            "postal_code": "68",
+            "province_id": "16",
+            "lat": "33.7000",
+            "long": "47.2667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ایلام",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.2956",
+            "long": "46.6703",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "دهلران",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "32.6941",
+            "long": "47.2679",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آبدانان",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "32.9925",
+            "long": "47.4197",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دره‌شهر",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.1397",
+            "long": "47.3761",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ایوان",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.8275",
+            "long": "46.3097",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شیروان و چرداول",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.6941",
+            "long": "46.4872",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهران",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.1222",
+            "long": "46.1647",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سرابله",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.7682",
+            "long": "46.5657",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بدره",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.3075",
+            "long": "47.0372",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لومار",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.5667",
+            "long": "46.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "موسیان",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "32.5167",
+            "long": "47.3833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرنه",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.9167",
+            "long": "46.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "توحید",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.8000",
+            "long": "46.7167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دلگشا",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.6833",
+            "long": "46.4000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پهله",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.0333",
+            "long": "47.1000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مورموری",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "32.7281",
+            "long": "47.6269",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "میمه",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.2272",
+            "long": "46.9197",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ارکواز",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.7833",
+            "long": "46.5833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سراب‌باغ",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.0167",
+            "long": "47.5667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صالح‌آباد",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.4667",
+            "long": "46.1833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چوار",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.3500",
+            "long": "46.2833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مهر",
+            "postal_code": "69",
+            "province_id": "17",
+            "lat": "33.1167",
+            "long": "46.8333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "یاسوج",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.6562",
+            "long": "51.5960",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "دوگنبدان",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.3573",
+            "long": "50.7981",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دهدشت",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.7947",
+            "long": "50.5644",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "باشت",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.3642",
+            "long": "51.1567",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چرام",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.7456",
+            "long": "50.7475",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سی‌سخت",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.8622",
+            "long": "51.4531",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لیکک",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.8967",
+            "long": "50.0931",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مارگون",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "31.0667",
+            "long": "51.0667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دیشموک",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "31.3025",
+            "long": "50.4064",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قلعه رئیسی",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.9500",
+            "long": "50.4500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پاتاوه",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.9500",
+            "long": "51.2667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چیتاب",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.7833",
+            "long": "51.3333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گراب سفلی",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.9167",
+            "long": "50.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لنده",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.9833",
+            "long": "50.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سوق",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.8589",
+            "long": "50.4597",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مادوان",
+            "postal_code": "75",
+            "province_id": "18",
+            "lat": "30.6833",
+            "long": "51.5333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بوشهر",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.9234",
+            "long": "50.8203",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "برازجان",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.2661",
+            "long": "51.2093",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گناوه",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.5791",
+            "long": "50.5177",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خورموج",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.6547",
+            "long": "51.3806",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کنگان",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.8370",
+            "long": "52.0617",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دیلم",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "30.1142",
+            "long": "50.1628",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جم",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.8278",
+            "long": "52.3264",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "عسلویه",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.4756",
+            "long": "52.6107",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اهرم",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.8806",
+            "long": "51.2747",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دیر",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.8400",
+            "long": "51.9378",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دشتی",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.3594",
+            "long": "51.3544",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شبانکاره",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.4667",
+            "long": "50.9833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کاکی",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.3333",
+            "long": "51.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "وحدتیه",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.4833",
+            "long": "51.2333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بندر ریگ",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.4833",
+            "long": "50.6333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دالکی",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.4333",
+            "long": "51.2917",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آبدان",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.0833",
+            "long": "51.7667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بردخون",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.0667",
+            "long": "51.4778",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بندر دیلم",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "30.0500",
+            "long": "50.1667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تنگ ارم",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.1500",
+            "long": "51.5333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چغادک",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.9833",
+            "long": "51.0167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دلوار",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.7458",
+            "long": "51.0722",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ریز",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.0167",
+            "long": "52.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سعدآباد",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "29.3833",
+            "long": "51.1167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شنبه",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "28.3972",
+            "long": "51.7653",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نخل تقی",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.4997",
+            "long": "52.5878",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیدخون",
+            "postal_code": "75",
+            "province_id": "19",
+            "lat": "27.4683",
+            "long": "52.6367",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زنجان",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.5018",
+            "long": "48.3988",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "ابهر",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.1465",
+            "long": "49.2186",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خرمدره",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.2053",
+            "long": "49.1869",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "هیدج",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.2500",
+            "long": "49.1167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قیدار",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.1158",
+            "long": "48.5989",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آب‌بر",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.9261",
+            "long": "48.9539",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرین‌رود",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.4167",
+            "long": "48.5333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ماه‌نشان",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.7439",
+            "long": "47.6731",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صائین‌قلعه",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.3042",
+            "long": "49.0711",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سلطانیه",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.4331",
+            "long": "48.7947",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دندی",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.5500",
+            "long": "47.5500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گرماب",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "35.8500",
+            "long": "48.2333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چورزق",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.9881",
+            "long": "48.7764",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "حلب",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.2833",
+            "long": "48.0500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سجاس",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.2417",
+            "long": "48.5139",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زرین‌آباد",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.4167",
+            "long": "48.3000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ارمغانخانه",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.9833",
+            "long": "48.4500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کرسف",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "35.9667",
+            "long": "48.5000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نوربهار",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.5833",
+            "long": "48.4667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نیک‌پی",
+            "postal_code": "45",
+            "province_id": "20",
+            "lat": "36.6167",
+            "long": "48.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سمنان",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.2256",
+            "long": "54.4337",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "شاهرود",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.4181",
+            "long": "54.9763",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "دامغان",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.1683",
+            "long": "54.3481",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گرمسار",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.2183",
+            "long": "52.3406",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهدی‌شهر",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.7008",
+            "long": "53.3500",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "امیریه",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.0281",
+            "long": "54.1342",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آرادان",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.2500",
+            "long": "52.4833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بسطام",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.4833",
+            "long": "55.0000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شهمیرزاد",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.7728",
+            "long": "53.3267",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلاته خیج",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.6667",
+            "long": "55.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "میامی",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.4167",
+            "long": "55.6500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درجزین",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.6333",
+            "long": "52.9333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دیباج",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.5167",
+            "long": "54.2333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرخه",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.4667",
+            "long": "53.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مجن",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.4833",
+            "long": "54.6500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلاته",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.6667",
+            "long": "54.3167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رودیان",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.2167",
+            "long": "54.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیارجمند",
+            "postal_code": "36",
+            "province_id": "21",
+            "lat": "36.0833",
+            "long": "55.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کهن‌آباد",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.4333",
+            "long": "52.3833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ایوانکی",
+            "postal_code": "35",
+            "province_id": "21",
+            "lat": "35.3442",
+            "long": "52.0681",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "یزد",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.8974",
+            "long": "54.3569",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "اردکان",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.3100",
+            "long": "54.0175",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "میبد",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.2503",
+            "long": "54.0168",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بافق",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.6128",
+            "long": "55.4107",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ابرکوه",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.1303",
+            "long": "53.2875",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "تفت",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.7471",
+            "long": "54.2088",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مهریز",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.5914",
+            "long": "54.4319",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اشکذر",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.0000",
+            "long": "54.2000",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "هرات",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "30.0511",
+            "long": "54.3714",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خضرآباد",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.8667",
+            "long": "53.9500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مروست",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "30.4833",
+            "long": "54.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بهاباد",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.8667",
+            "long": "56.0167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ندوشن",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.0247",
+            "long": "53.5494",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بفروئیه",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.2667",
+            "long": "53.9000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "عقدا",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.4433",
+            "long": "53.6333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زارچ",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.9792",
+            "long": "54.2422",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نیر",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "31.4833",
+            "long": "54.1500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "احمدآباد",
+            "postal_code": "89",
+            "province_id": "22",
+            "lat": "32.3500",
+            "long": "53.9833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بندرعباس",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.1832",
+            "long": "56.2666",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "قشم",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.9444",
+            "long": "56.2711",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "کیش",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.5321",
+            "long": "53.9819",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "میناب",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.1467",
+            "long": "57.0801",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بندر لنگه",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.5578",
+            "long": "54.8806",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جاسک",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "25.6439",
+            "long": "57.7744",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رودان",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.4400",
+            "long": "57.1928",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "حاجی‌آباد",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "28.3092",
+            "long": "55.9019",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بندر خمیر",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.9522",
+            "long": "55.5850",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پارسیان",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.2067",
+            "long": "53.0486",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بستک",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.1994",
+            "long": "54.3667",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بندر جاسک",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "25.6439",
+            "long": "57.7744",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سیریک",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.5222",
+            "long": "57.1108",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کنگ",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.5986",
+            "long": "54.9361",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قلعه قاضی",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.4439",
+            "long": "57.4844",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درگهان",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.9650",
+            "long": "56.3742",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سوزا",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.7778",
+            "long": "56.0647",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تخت",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.0136",
+            "long": "56.8419",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هرمز",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.0925",
+            "long": "56.4502",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دهبارز",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.4500",
+            "long": "57.1833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سردشت",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.1917",
+            "long": "54.9375",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فین",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.6333",
+            "long": "55.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ابوموسی",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "25.8797",
+            "long": "55.0328",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تیرور",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.3833",
+            "long": "57.0167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زیارتعلی",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.7500",
+            "long": "57.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لمزان",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.8000",
+            "long": "55.4000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رویدر",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "27.4667",
+            "long": "55.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گوهران",
+            "postal_code": "79",
+            "province_id": "23",
+            "lat": "26.5833",
+            "long": "57.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اردبیل",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.2498",
+            "long": "48.2933",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "پارس‌آباد",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.6482",
+            "long": "47.9174",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "مشگین‌شهر",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.3989",
+            "long": "47.6819",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خلخال",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "37.6189",
+            "long": "48.5506",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گرمی",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.0372",
+            "long": "48.0800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بیله‌سوار",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.3756",
+            "long": "48.3508",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نمین",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.4269",
+            "long": "48.4839",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نیر",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.0347",
+            "long": "48.0097",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوثر",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "37.9311",
+            "long": "48.2414",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرعین",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.1498",
+            "long": "48.0772",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جعفرآباد",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.4333",
+            "long": "48.0833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اصلاندوز",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.4417",
+            "long": "47.4125",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تازه‌کند",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "39.5833",
+            "long": "47.7667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "لاهرود",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.5067",
+            "long": "47.8336",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هیر",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.0764",
+            "long": "48.4983",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گیوی",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "37.6861",
+            "long": "48.3347",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کلور",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "37.3861",
+            "long": "48.7211",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "عنبران",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.4833",
+            "long": "48.4333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رضی",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.6294",
+            "long": "48.0894",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آبی‌بیگلو",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.2897",
+            "long": "48.5519",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فخرآباد",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.5236",
+            "long": "47.8672",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قصابه",
+            "postal_code": "56",
+            "province_id": "24",
+            "lat": "38.4833",
+            "long": "48.5833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قم",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.6416",
+            "long": "50.8746",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "جعفریه",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.7833",
+            "long": "50.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دستجرد",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.5744",
+            "long": "50.2508",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سلفچگان",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.4833",
+            "long": "50.4583",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قنوات",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.6158",
+            "long": "51.0089",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کهک",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.3947",
+            "long": "50.8644",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پردیسان",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.6294",
+            "long": "50.8492",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "قلعه چم",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.6833",
+            "long": "50.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قمرود",
+            "postal_code": "37",
+            "province_id": "25",
+            "lat": "34.6500",
+            "long": "50.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قزوین",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.0881",
+            "long": "49.8547",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "تاکستان",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.0697",
+            "long": "49.6959",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "الوند",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.1814",
+            "long": "49.7939",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آبیک",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.0397",
+            "long": "50.5311",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بوئین زهرا",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.7669",
+            "long": "50.0577",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "محمدیه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.2333",
+            "long": "50.1833",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "اقبالیه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.1500",
+            "long": "49.9167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آبگرم",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.7569",
+            "long": "49.2842",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ارداق",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.9500",
+            "long": "49.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اسفرورین",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.0667",
+            "long": "49.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خاکعلی",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.1667",
+            "long": "49.8333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خرمدشت",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.2167",
+            "long": "49.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دانسفهان",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.8167",
+            "long": "49.7333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رازمیان",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.5333",
+            "long": "49.5333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سگزآباد",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.7667",
+            "long": "49.9333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سیردان",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.6500",
+            "long": "49.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شال",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.8967",
+            "long": "49.7683",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شریفیه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.2167",
+            "long": "50.1500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ضیاءآباد",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.9964",
+            "long": "49.4472",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "معلم کلایه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.4500",
+            "long": "50.4833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نرجه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "35.9667",
+            "long": "49.6167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوهین",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.3722",
+            "long": "49.6561",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "محمودآباد نمونه",
+            "postal_code": "34",
+            "province_id": "26",
+            "lat": "36.1333",
+            "long": "50.2333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گرگان",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "36.8393",
+            "long": "54.4444",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "گنبدکاووس",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.2500",
+            "long": "55.1672",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "بندر ترکمن",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "36.9017",
+            "long": "54.0708",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "علی‌آباد کتول",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "36.9078",
+            "long": "54.8675",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آق‌قلا",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0139",
+            "long": "54.4575",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کردکوی",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "36.7944",
+            "long": "54.1100",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مینودشت",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.2289",
+            "long": "55.3747",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "بندرگز",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "36.7547",
+            "long": "53.9458",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کلاله",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.3808",
+            "long": "55.4917",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آزادشهر",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0867",
+            "long": "55.1728",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "رامیان",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0161",
+            "long": "55.1414",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گالیکش",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.2717",
+            "long": "55.4317",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گمیشان",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "37.0722",
+            "long": "54.0747",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مراوه‌تپه",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.9033",
+            "long": "55.9644",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سیمین‌شهر",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "37.0139",
+            "long": "54.2575",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خان‌ببین",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0167",
+            "long": "54.9833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دلند",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0389",
+            "long": "55.0533",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرخنکلاته",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "36.8833",
+            "long": "54.5667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نگین‌شهر",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0333",
+            "long": "55.1667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نوده خاندوز",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.0167",
+            "long": "55.1833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نوکنده",
+            "postal_code": "48",
+            "province_id": "27",
+            "lat": "36.7431",
+            "long": "53.9097",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اینچه‌برون",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.4500",
+            "long": "54.7167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جلین",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "36.8500",
+            "long": "54.5333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فراغی",
+            "postal_code": "49",
+            "province_id": "27",
+            "lat": "37.2167",
+            "long": "55.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بجنورد",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.4761",
+            "long": "57.3317",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "شیروان",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.4094",
+            "long": "57.9281",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "اسفراین",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.0764",
+            "long": "57.5100",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آشخانه",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.5594",
+            "long": "56.9194",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "جاجرم",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "36.9500",
+            "long": "56.3800",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "گرمه",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "36.9806",
+            "long": "56.3008",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فاروج",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.2306",
+            "long": "58.2189",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "راز",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.9331",
+            "long": "57.1083",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "پیش‌قلعه",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.6486",
+            "long": "56.9947",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قاضی",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.4833",
+            "long": "56.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شوقان",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.3500",
+            "long": "56.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "صفی‌آباد",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "36.9333",
+            "long": "57.9333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ایور",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "36.9667",
+            "long": "56.2500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "درق",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "36.9667",
+            "long": "56.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آوا",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.4667",
+            "long": "57.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "حصار گرمخان",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.5000",
+            "long": "57.4833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زیارت",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.4333",
+            "long": "57.2833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سنخواست",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.0833",
+            "long": "56.8500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "چناران شهر",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.3833",
+            "long": "57.4500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تیتکانلو",
+            "postal_code": "94",
+            "province_id": "28",
+            "lat": "37.2833",
+            "long": "58.2500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بیرجند",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.8649",
+            "long": "59.2162",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "قاین",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.7264",
+            "long": "59.1848",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "طبس",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.5959",
+            "long": "56.9244",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "فردوس",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "34.0189",
+            "long": "58.1726",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نهبندان",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "31.5419",
+            "long": "60.0360",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "سربیشه",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.5756",
+            "long": "59.7983",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "بشرویه",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.8667",
+            "long": "57.4167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "سرایان",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.8603",
+            "long": "58.5242",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خوسف",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.7833",
+            "long": "58.8833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اسدیه",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.9133",
+            "long": "60.0247",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "زهان",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.4167",
+            "long": "59.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "حاجی‌آباد",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.6000",
+            "long": "59.0000",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آیسک",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.8833",
+            "long": "58.3833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نیمبلوک",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.8000",
+            "long": "58.9833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "دیهوک",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.2833",
+            "long": "57.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ارسک",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.6000",
+            "long": "57.3667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مود",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.7000",
+            "long": "59.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خضری دشت بیاض",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "34.0333",
+            "long": "58.8167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "قهستان",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "33.1500",
+            "long": "59.7167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گزیک",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.9500",
+            "long": "60.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "محمدشهر",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.8667",
+            "long": "59.0333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اسلامیه",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "34.0444",
+            "long": "58.2208",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "عشق‌آباد",
+            "postal_code": "97",
+            "province_id": "29",
+            "lat": "32.8981",
+            "long": "59.3233",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کرج",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.8400",
+            "long": "50.9391",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "فردیس",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7247",
+            "long": "50.9744",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "هشتگرد",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.9631",
+            "long": "50.6856",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "نظرآباد",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.9522",
+            "long": "50.6078",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "محمدشهر",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7642",
+            "long": "50.9039",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "ماهدشت",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7272",
+            "long": "50.8133",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "مشکین‌دشت",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7472",
+            "long": "50.9389",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "کمال‌شهر",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.8408",
+            "long": "50.8758",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "چهارباغ",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.8375",
+            "long": "50.8478",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آسارا",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "36.0397",
+            "long": "51.1719",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اشتهارد",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7247",
+            "long": "50.3617",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تنکمان",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.8897",
+            "long": "50.6094",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گرمدره",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "35.7539",
+            "long": "51.0539",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "گلسار",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.9667",
+            "long": "50.7500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شهرجدید هشتگرد",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.9833",
+            "long": "50.7500",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "طالقان",
+            "postal_code": "31",
+            "province_id": "30",
+            "lat": "36.1764",
+            "long": "50.7675",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کوهسار",
+            "postal_code": "33",
+            "province_id": "30",
+            "lat": "35.9500",
+            "long": "50.7833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "اراک",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.0954",
+            "long": "49.7013",
+            "size": "metropolitan",
+            "zoom_level": "11"
+        },
+        {
+            "name": "ساوه",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.0213",
+            "long": "50.3566",
+            "size": "large",
+            "zoom_level": "12"
+        },
+        {
+            "name": "خمین",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "33.6423",
+            "long": "50.0789",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "محلات",
+            "postal_code": "37",
+            "province_id": "31",
+            "lat": "33.9085",
+            "long": "50.4550",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "دلیجان",
+            "postal_code": "37",
+            "province_id": "31",
+            "lat": "33.9904",
+            "long": "50.6839",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "شازند",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "33.9275",
+            "long": "49.4120",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "آشتیان",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "34.5208",
+            "long": "50.0067",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "تفرش",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "34.6919",
+            "long": "50.0130",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "خنداب",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.3842",
+            "long": "49.1869",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "فرمهین",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "34.5094",
+            "long": "49.6847",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "کمیجان",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.7194",
+            "long": "49.3267",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مامونیه",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.2908",
+            "long": "50.4853",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "زرندیه",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.3069",
+            "long": "50.4916",
+            "size": "medium",
+            "zoom_level": "13"
+        },
+        {
+            "name": "پرندک",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.3647",
+            "long": "50.6814",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خشکرود",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.0500",
+            "long": "50.3333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "رازقان",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.3333",
+            "long": "49.9500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "غرق‌آباد",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "35.1000",
+            "long": "49.8500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "آوه",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "34.7667",
+            "long": "50.3333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "جاورسیان",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.2833",
+            "long": "49.3833",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "خنجین",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.4833",
+            "long": "49.3500",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "داودآباد",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.2967",
+            "long": "49.8453",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "ساروق",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.3667",
+            "long": "49.5167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "شهباز",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "33.9167",
+            "long": "49.5667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "مهاجران",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.0797",
+            "long": "49.4219",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "میلاجرد",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.6167",
+            "long": "49.2167",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نراق",
+            "postal_code": "37",
+            "province_id": "31",
+            "lat": "34.0167",
+            "long": "50.8333",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نوبران",
+            "postal_code": "39",
+            "province_id": "31",
+            "lat": "35.1306",
+            "long": "49.7086",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "نیمور",
+            "postal_code": "37",
+            "province_id": "31",
+            "lat": "33.8833",
+            "long": "50.5667",
+            "size": "small",
+            "zoom_level": "14"
+        },
+        {
+            "name": "هندودر",
+            "postal_code": "38",
+            "province_id": "31",
+            "lat": "34.3167",
+            "long": "49.2333",
+            "size": "small",
+            "zoom_level": "14"
+        }
+    ]
+}
