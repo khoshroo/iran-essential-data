@@ -34,7 +34,7 @@ This repository contains essential data for Iranian geographic divisions, admini
 ```json
 {
     "name": "تهران",
-    "postalcode": "1",
+    "postal_code": "1",
     "province_id": "1",
     "lat": "35.6892",
     "long": "51.3890",
@@ -70,7 +70,7 @@ Schema::create('provinces', function (Blueprint $table) {
 Schema::create('cities', function (Blueprint $table) {
     $table->id();
     $table->string('name');
-    $table->string('postalcode');
+    $table->string('postal_code');
     $table->foreignId('province_id')->constrained()->onDelete('cascade');
     $table->decimal('lat', 10, 4);
     $table->decimal('long', 10, 4);
